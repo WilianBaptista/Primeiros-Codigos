@@ -1,2 +1,2 @@
 # Primeiros Códigos
- python
+ Primeiros códigos de aprendizagem Python.
